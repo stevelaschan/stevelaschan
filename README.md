@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    width="900"
+    width="1200"
     height="300"
-    src="	https://c4.wallpaperflare.com/wallpaper/435/542/54…-microsoft-visual-studio-hd-wallpaper-preview.jpg"
+    src="https://c4.wallpaperflare.com/wallpaper/689/20/945/web-development-minimalism-wallpaper-preview.jpg"
   >
 </p>
 
