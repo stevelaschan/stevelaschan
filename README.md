@@ -1,13 +1,3 @@
-<p align="center">
-  <img 
-    width="1200"
-    height="300"
-    src="https://c4.wallpaperflare.com/wallpaper/689/20/945/web-development-minimalism-wallpaper-preview.jpg"
-  >
-</p>
-
-
-
 
 ### Hello fellow Web Developers!
 
