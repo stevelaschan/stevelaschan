@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello fellow Web Developers!
 
 
 Web Developer with Legal Background - JavaScript / TypeScript / React / React Native / Next.js / Node.js / PostgreSQL
