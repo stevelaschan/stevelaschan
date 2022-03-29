@@ -1,6 +1,3 @@
-![peakpx (1)](https://user-images.githubusercontent.com/94568609/160707152-6a7e569f-791d-4253-86c1-caa4b2ca2526.jpg)
-
-
 
 ### Hello fellow Web Developers!
 
