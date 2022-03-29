@@ -1,4 +1,12 @@
-![javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview](https://user-images.githubusercontent.com/94568609/160707956-1d97fb5f-e526-4bd2-98d1-754002be8647.jpg)
+<p align="center">
+  <img 
+    width="900"
+    height="300"
+    src="	https://c4.wallpaperflare.com/wallpaper/435/542/54…-microsoft-visual-studio-hd-wallpaper-preview.jpg"
+  >
+</p>
+
+
 
 
 ### Hello fellow Web Developers!
